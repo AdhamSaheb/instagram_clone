@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  margin-top: 25px;
+}
+
+.side {
+  flex: 2;
+
+}
+
+.main{
+  flex : 4;
+}

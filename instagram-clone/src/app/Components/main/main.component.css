@@ -1,0 +1,64 @@
+.storyimg{
+  width: 60px;
+  height: 60px;
+  border-radius: 60%;
+  border: 2.5px solid #ad2a21;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+
+.stories{
+  border: 1px solid rgb(219, 217, 217);
+  padding-top: 10px;
+  background-color: white;
+  width: 50%;
+}
+
+
+
+.ui-carousel-content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  overflow: auto;
+  padding: 0px;
+
+}
+
+
+.post-container {
+  margin-top: 20px;
+  border: 0.1px solid rgb(219, 218, 218);
+  padding: 10px;
+}
+
+.postimage{
+  border-radius: 60%;
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.postcontentimage img{
+height: 600px;
+width: 600px;
+
+
+}
+
+.icons {
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+
+.icons svg {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.postinfo{
+  margin-top: 10px;
+  margin-left: 15px;
+}
